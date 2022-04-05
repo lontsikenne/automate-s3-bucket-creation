@@ -1,2 +1,1 @@
-abc-test-bucketcreaion-200
-teacher-aws-class-test-pipeline
+douala-bucket-test-100
